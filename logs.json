@@ -1,0 +1,40 @@
+{
+  "datetime": "2022-10-29 02:31:22.110718",
+  "func": "get_questions",
+  "pos_args": [
+    "Made for logger demonstration!"
+  ],
+  "key_args": {},
+  "result": [
+    "I want to create a new column with ages according to birth dates but I&#39;m not able to",
+    "How do I have nested find_all statements in BeautifulSoup (Python)?",
+    "Check row and the five above for a condition",
+    "Python nested function doesn&#39;t return what&#39;s expected",
+    "Remove substring and all characters before from pyspark column",
+    "pySimpleGUI two filebrowser events were reversed",
+    "I tried convert communities to vertexCluster to order to draw (plotly) TypeError: unsupported operand type(s) for -: &#39;int&#39; and &#39;Graph&#39;",
+    "combine itertools 2 product with specified amount of variables",
+    "Creating optimized stacked area charts in python by iterating individual curves",
+    "How to obtain the gradient of Keras model with respect to the input data",
+    "AttributeError: &#39;int&#39; object has no attribute &#39;items&#39; in ngram language modelling with nltk",
+    "How do I batch process multiple RGB images (flipping horizontally and resizing) in OpenCV with RGB output of images?",
+    "Is it possible to create a variable that has global properties only in that function?",
+    "Python.3.11 64 bit, .pth files no longer working",
+    "&#39;misioneroscanibales&#39; object has no attribute &#39;action_cost&#39;",
+    "How do I plot the interval between two given dates in R or in python?",
+    "Hanging thread waiting for network request",
+    "Structuring of .py project using sqlalchemy",
+    "Error unsupported operand type(s) for *: &#39;float&#39; and &#39;type&#39;",
+    "Unsupported array index type when using numba",
+    "How to call list of data that was saved by another python file?",
+    "Colab automatically create directory",
+    "what should i correct to be able to print correctly the result?",
+    "\\Git\\git-bash.exe hangs sometimes on python or python3 input() function -- \\Git\\bin\\bash.exe doesn&#39;t. Why does this happen?",
+    "Pandas: Filtering timeseries data from two dataframes",
+    "Choosing a specific contour in oscillatory data to plot with matplotlib",
+    "Find remaining line from rectangle in OpenCV",
+    "Using applymap() to make dataframe value clickable",
+    "Find the possible states to make the result of the Bitwise OR answer",
+    "How do I create new lists dynamically and add these multiple lists inside a parent list as a value in a dictionary?"
+  ]
+}

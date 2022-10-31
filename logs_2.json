@@ -1,0 +1,40 @@
+{
+  "datetime": "2022-10-31 15:43:47.587395",
+  "func": "get_questions",
+  "pos_args": [
+    "Made for logger demonstration!"
+  ],
+  "key_args": {},
+  "result": [
+    "How to call an InlineKeyboardButton by id anytime the button is pressed",
+    "Python convert UTC (GMT) to IST Indian Time",
+    "Is it possible to create an artificial model in FactoryBoy?",
+    "SQL to Django ORM for group by with distinct",
+    "does ViT applay on gray_scale pictures?",
+    "How to launch a list of python scripts asynchronously?",
+    "BeautifulSoup: Search and replace in the text parts of HTML",
+    "Problems with two interactive graphs in one layout using python, plotly, dash",
+    "How to get route&#39;s name using FastAPI/Starlette?",
+    "IndexError: index 0 is out of bounds for axis 0 with size 0 - jupyter notebook",
+    "Spark driver fails when running zstd compression on multiple threads in databricks single node cluster",
+    "Python Pandas Web Scraping",
+    "Excecute Python Script When A New Outlook Email Arrives",
+    "Flask webpage not working when trying to return a function using ngrok",
+    "i went to convert bayes classifier matlab code to python code",
+    "How to make Flask API auto-refresh every second",
+    "Change dtype from &quot;Object&quot; to dict in a numpy array",
+    "Subscription System IAP using some language of backend",
+    "How to update value in row using multiple queries python flask-sqlalchemy",
+    "how to upload a csv using restructuredTextFormating and python- or what parameters to set?",
+    "Problem converting matlab code to python (numpy)",
+    "With flask donloaded video from S3 can&#39;t be opened",
+    "Scrapy - Finding specific regex matches on website",
+    "How to display the density distribution in a Violinplot?",
+    "db.create_all() is not creating the database",
+    "I deploy machine learning model using flask and want to save data prediction data in postgresql",
+    "AIOHTTP: Client example",
+    "How to iterate over nested list to input missing values",
+    "why does it say Syntax,Error: invalid syntax at line 5",
+    "insurance claims Python, I need help creating this project"
+  ]
+}
